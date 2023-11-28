@@ -1,0 +1,36 @@
+{
+  "Id": "5guF",
+  "Name": "Auth_Body",
+  "Properties": [
+    {
+      "Id": "THwC",
+      "Name": "scope",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hDdc",
+      "Name": "access_token",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wOb5",
+      "Name": "token_type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bfnj",
+      "Name": "app_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5FU9",
+      "Name": "expires_in",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Poke",
+      "Name": "nonce",
+      "Type": "Compiled:String"
+    }
+  ]
+}

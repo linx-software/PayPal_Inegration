@@ -1,0 +1,31 @@
+{
+  "Id": "zXdG",
+  "Name": "Balance_Body_balances",
+  "Properties": [
+    {
+      "Id": "8Fuc",
+      "Name": "currency",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "j1YZ",
+      "Name": "primary",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "cQ8g",
+      "Name": "total_balance",
+      "Type": "Custom:gSQU"
+    },
+    {
+      "Id": "MhpD",
+      "Name": "available_balance",
+      "Type": "Custom:gSQU"
+    },
+    {
+      "Id": "Pwuh",
+      "Name": "withheld_balance",
+      "Type": "Custom:gSQU"
+    }
+  ]
+}

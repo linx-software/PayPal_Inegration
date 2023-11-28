@@ -1,0 +1,51 @@
+{
+  "Id": "Lt8c",
+  "Name": "Transaction_Body",
+  "Properties": [
+    {
+      "Id": "VYam",
+      "Name": "transaction_details",
+      "Type": "List:Custom:Wb2G"
+    },
+    {
+      "Id": "g4aZ",
+      "Name": "account_number",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CW0U",
+      "Name": "start_date",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cYHR",
+      "Name": "end_date",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RlSR",
+      "Name": "last_refreshed_datetime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8dq3",
+      "Name": "page",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "gbJ6",
+      "Name": "total_items",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "zyRm",
+      "Name": "total_pages",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "BNDa",
+      "Name": "links",
+      "Type": "List:Custom:LiWk"
+    }
+  ]
+}

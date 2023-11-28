@@ -1,0 +1,11 @@
+{
+  "Id": "Wb2G",
+  "Name": "Transaction_Body_transaction_details",
+  "Properties": [
+    {
+      "Id": "Zg37",
+      "Name": "transaction_info",
+      "Type": "Custom:QG10"
+    }
+  ]
+}

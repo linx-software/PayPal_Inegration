@@ -1,0 +1,16 @@
+{
+  "Id": "gSQU",
+  "Name": "Balance_Body_balances_balance",
+  "Properties": [
+    {
+      "Id": "lHhL",
+      "Name": "currency_code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Gawt",
+      "Name": "value",
+      "Type": "Compiled:String"
+    }
+  ]
+}

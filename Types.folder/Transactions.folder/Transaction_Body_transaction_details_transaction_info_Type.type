@@ -1,0 +1,16 @@
+{
+  "Id": "DPHi",
+  "Name": "Transaction_Body_transaction_details_transaction_info_Type",
+  "Properties": [
+    {
+      "Id": "ZGi0",
+      "Name": "currency_code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YU7m",
+      "Name": "value",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "v07K",
+    "Name": "PayPal_ClientID",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "RkMs",
+    "Name": "PayPal_ClientSecret",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "Jo0A",
+    "Name": "PayPal_BaseURL",
+    "Type": "Compiled:String",
+    "Value": ""
+  }
+]

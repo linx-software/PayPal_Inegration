@@ -1,0 +1,56 @@
+{
+  "Id": "QG10",
+  "Name": "Transaction_Body_transaction_details_transaction_info",
+  "Properties": [
+    {
+      "Id": "zP5R",
+      "Name": "transaction_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MqKJ",
+      "Name": "transaction_event_code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "I7KX",
+      "Name": "transaction_initiation_date",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KDw3",
+      "Name": "transaction_updated_date",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "s7H6",
+      "Name": "transaction_amount",
+      "Type": "Custom:DPHi"
+    },
+    {
+      "Id": "NztM",
+      "Name": "transaction_status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fn4z",
+      "Name": "transaction_subject",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2uxc",
+      "Name": "ending_balance",
+      "Type": "Custom:DPHi"
+    },
+    {
+      "Id": "jNMI",
+      "Name": "available_balance",
+      "Type": "Custom:DPHi"
+    },
+    {
+      "Id": "9cZN",
+      "Name": "protection_eligibility",
+      "Type": "Compiled:String"
+    }
+  ]
+}

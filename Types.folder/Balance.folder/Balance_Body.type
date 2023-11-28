@@ -1,0 +1,26 @@
+{
+  "Id": "4JHk",
+  "Name": "Balance_Body",
+  "Properties": [
+    {
+      "Id": "hQP1",
+      "Name": "balances",
+      "Type": "List:Custom:zXdG"
+    },
+    {
+      "Id": "2w7F",
+      "Name": "account_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DjDL",
+      "Name": "as_of_time",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "d3lT",
+      "Name": "last_refresh_time",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

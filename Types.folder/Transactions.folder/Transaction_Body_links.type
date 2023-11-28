@@ -1,0 +1,21 @@
+{
+  "Id": "LiWk",
+  "Name": "Transaction_Body_links",
+  "Properties": [
+    {
+      "Id": "qJZu",
+      "Name": "href",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JWlL",
+      "Name": "rel",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ivuQ",
+      "Name": "method",
+      "Type": "Compiled:String"
+    }
+  ]
+}
